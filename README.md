@@ -92,6 +92,7 @@ Simulink Step Response (not Reduced Functions):
 ![image](https://github.com/leandawnleandawn/CSE_BlockDiagramAlgebra_MEXE_3201_Group12_2024/assets/83767299/688b2fe1-b675-4e73-b909-5dd2a94d2746)
 
 Simulink Step Response (Reduced Function):
+
 ![image](https://github.com/leandawnleandawn/CSE_BlockDiagramAlgebra_MEXE_3201_Group12_2024/assets/83767299/cfb879e6-c7f9-46ab-90b7-ee5addd11dfa)
 
 Simulink Sinusodial Response (not Reduced Functions):
