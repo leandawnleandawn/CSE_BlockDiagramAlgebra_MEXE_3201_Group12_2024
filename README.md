@@ -100,6 +100,7 @@ Simulink Sinusodial Response (not Reduced Functions):
 ![image](https://github.com/leandawnleandawn/CSE_BlockDiagramAlgebra_MEXE_3201_Group12_2024/assets/83767299/d3c8329f-58f0-4eeb-b952-8cf25b68337b)
 
 Simulink Sinusodial Response (Reduced Function):
+
 ![image](https://github.com/leandawnleandawn/CSE_BlockDiagramAlgebra_MEXE_3201_Group12_2024/assets/83767299/afdaadbf-cbcc-4506-811f-d8f94427b56b)
 
 ### Conclusion
