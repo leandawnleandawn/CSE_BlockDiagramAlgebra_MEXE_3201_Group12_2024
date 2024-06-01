@@ -101,3 +101,13 @@ Simulink Sinusodial Response (not Reduced Functions):
 Simulink Sinusodial Response (Reduced Function):
 ![image](https://github.com/leandawnleandawn/CSE_BlockDiagramAlgebra_MEXE_3201_Group12_2024/assets/83767299/afdaadbf-cbcc-4506-811f-d8f94427b56b)
 
+### Conclusion
+
+In conclusion, this experiment successfully demonstrated the use of MATLAB and Simulink as powerful tools for simulating and analyzing block diagram algebra. By defining block diagrams in MATLAB, constructing them in Simulink, and performing manual reductions, we were able to visualize and simplify complex control systems effectively. The comparison of step responses and sinusoidal inputs between original and reduced block diagrams provided valuable insights into the behavior and performance of these systems. This practical application reinforced our understanding of block diagram manipulation and its significance in Control Systems Engineering, highlighting the importance of these techniques in the design and analysis of efficient control systems.
+
+### Proponents
+
+Project Leader: Dianne Mae Tricia Ortega
+Project Supervisor: Tristan Potestades
+Project Quality Assurance: Emmanuel Gumapac
+Project Programmer: Lyndon Allen Sales
